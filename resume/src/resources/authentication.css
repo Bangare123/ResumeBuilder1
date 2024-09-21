@@ -1,0 +1,41 @@
+
+.auth-parent{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.auth-parent h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+.auth-parent form{
+    width: 500px;
+    box-shadow: 0 0 5px gray;
+    padding: 20px;
+    font-size: 20px;
+    background: white;
+    border-radius: 10px; 
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(120deg, #007bff, #d0314c);
+    height: 100vh;
+    overflow: hidden;
+  }
+
+.link-style {
+
+    margin-right: 280px;
+    background-color: rgba(0, 0, 0, 0.85) !important;
+    box-shadow: none !important;
+    color: white !important;
+    border-radius: 5px;
+    padding: 2px 5px 2px 5px;
+}
