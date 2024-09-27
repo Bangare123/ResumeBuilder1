@@ -1,5 +1,5 @@
-# ResumeBuilder
- MERN stack project
+# ResumeBuilder (MERN stack)
+  A Resume Builder project developed using the MERN stack (MongoDB, Express, React, Node.js) allows to easily create resumes. It features a user-friendly interface with dynamic form fields for personal details, education, and experience, data stored in a MongoDB database. The application enables resume previews, PDF and user authentication for saving and accessing resumes.
 # Login Screen
 ![Screenshot (219)](https://github.com/user-attachments/assets/56cb459d-1afe-4912-ac3d-97cf646a83bd)
 
