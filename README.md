@@ -1,3 +1,3 @@
 # ResumeBuilder
  MERN stack project
-<img src="C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (219)" alt="Trulli" width="500" height="333">
+![Screenshot (219)](https://github.com/user-attachments/assets/6089d0e2-a856-4150-9b97-a5eec7d1bc26)
