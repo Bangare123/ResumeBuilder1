@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 
-// Schema
 const userSchema = new mongoose.Schema(
   {
     username: { type: String, required: true },
@@ -20,14 +19,10 @@ const userSchema = new mongoose.Schema(
     address: { type: String, default: "" },
   },
   {
-    // Mongoose adds two properties of type Date to the schema:
-    // createdAt: a date representing when this document was created
-    // updatedAt: a date representing when this document was last updated
     timestamps: true,
   }
 );
 
-// Model
 const userModel = mongoose.model("users", userSchema);
 
 module.exports = userModel;

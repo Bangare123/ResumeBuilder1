@@ -2,7 +2,6 @@ const express = require("express");
 const User = require("../models/userModel");
 const app = express.Router();
 
-// Create endpoints
 app.post("/login", async (request, response) => {
   try {
     const result = await User.findOne({
